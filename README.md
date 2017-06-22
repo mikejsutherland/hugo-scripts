@@ -4,9 +4,9 @@ Helpful scripts for Hugo
 
 ## Directories
 
-*bin/*      - these helpful scripts
-*src/*      - your hugo site source
-*release/*  - packaged site destination
+* *bin/*      - these helpful scripts
+* *src/*      - your hugo site source
+* *release/*  - packaged site destination
 
 ## Scripts
 
